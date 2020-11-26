@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a254796e-53ab-4bb4-90c9-5f9f40b02e0d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/google_maps_flutter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/google_maps_flutter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/android_google_map_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/android_google_map_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/circle_updates_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/circle_updates_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fake_maps_controllers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/fake_maps_controllers.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/google_map_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/google_map_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/map_creation_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/map_creation_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/marker_updates_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/marker_updates_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/polygon_updates_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/polygon_updates_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/polyline_updates_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/polyline_updates_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

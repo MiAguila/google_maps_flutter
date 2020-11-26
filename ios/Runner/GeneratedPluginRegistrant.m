@@ -4,10 +4,10 @@
 
 #import "GeneratedPluginRegistrant.h"
 
-#if __has_include(<google_maps_flutter/FLTGoogleMapsPlugin.h>)
-#import <google_maps_flutter/FLTGoogleMapsPlugin.h>
+#if __has_include(<miaguila_google_maps_flutter/FLTGoogleMapsPlugin.h>)
+#import <miaguila_google_maps_flutter/FLTGoogleMapsPlugin.h>
 #else
-@import google_maps_flutter;
+@import miaguila_google_maps_flutter;
 #endif
 
 @implementation GeneratedPluginRegistrant
